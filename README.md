@@ -1,3 +1,4 @@
+![BD_contraseña](https://user-images.githubusercontent.com/116554534/236595168-8712d3c5-7ba8-4f38-835a-c527dfd9f678.jpeg)
 # Tallerjava4
 En el taller 4 se puede visualizar la BD con nombre Javataller, esta cuenta con la tabla users_tbl y a su vez esta tabla cuenta con los datos user_id como llave primaria, user_firtsname como tipo de dato cadena (varchar), user_lastname como tipo de dato cadena (varchar), user_email como tipo cadena (varchar) y user_password como tipo varbinary este último es de tipo binario debido que al momento de insertar una fila el campo user_password se encripta por razones de seguridad, igualmente este dato se termina desencriptando para que se pueda visualizar en la consulta  
 
